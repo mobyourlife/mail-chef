@@ -1,0 +1,28 @@
+{
+  "name": "mail-chef",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Editor de textos para composicao de emails para campanhas de email marketing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobyourlife/mail-chef.git"
+  },
+  "keywords": [
+    "text",
+    "editor",
+    "composer",
+    "email",
+    "marketing",
+    "campaigns"
+  ],
+  "author": "Filipe Oliveira <contato@fmoliveira.com.br>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mobyourlife/mail-chef/issues"
+  },
+  "homepage": "https://github.com/mobyourlife/mail-chef#readme"
+}
