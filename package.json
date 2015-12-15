@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "description": "Editor de textos para composicao de emails para campanhas de email marketing.",
-  "main": "index.js",
+  "main": "src/main.js",
   "scripts": {
+    "start": "electron src/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -24,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/mobyourlife/mail-chef/issues"
   },
-  "homepage": "https://github.com/mobyourlife/mail-chef#readme"
+  "homepage": "https://github.com/mobyourlife/mail-chef#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.0"
+  }
 }
